@@ -59,8 +59,4 @@ if test10 < 1000 or 10 == 10 then --Checks for if one is at least true--
 	print ("At least one is true")
 end
 
-
---Episode 5: Tables--
-
-
 io.read() --Needed to stop the program from closing itself--
